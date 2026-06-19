@@ -1,16 +1,17 @@
-## Hi there 👋
+# hey I'm Graham
 
-<!--
-**grahampatrick/grahampatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building useful things. Bitcoin. Freedom Bible tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Now
+
+Building **OpenNeo** — an open, peer-to-peer Bible translation protocol.  
+Accurate Scripture. Bitcoin-anchored. No gatekeepers. Free forever.
+
+---
+
+### Links
+
+- Nostr · @tinysats
+- Web · grahamm.xyz
